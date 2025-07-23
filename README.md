@@ -19,5 +19,5 @@ A fun and visually engaging interactive cursor effect inspired by reptile moveme
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Reptile-Interactive-Cursor.git
+git clone https://github.com/tejas-waghamare/Reptile-Interactive-Cursor.git
 cd Reptile-Interactive-Cursor

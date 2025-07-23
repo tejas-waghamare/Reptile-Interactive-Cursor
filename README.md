@@ -1,3 +1,5 @@
+Live Demo :- https://tejas-waghamare.github.io/Reptile-Interactive-Cursor/
+
 # 🦎 Reptile-Interactive-Cursor
 
 A fun and visually engaging interactive cursor effect inspired by reptile movements. Ideal for creative portfolios, modern landing pages, or experimental web designs. Built with HTML, CSS, and JavaScript.
